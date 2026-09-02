@@ -6,9 +6,13 @@ Un agente inteligente de preguntas frecuentes basado en consola, implementado pa
 
 ## Demostración en Video
 
-> **Video del funcionamiento:** [Ver video de demostración (docs/demo_RAG.mp4)](./docs/demo_RAG.mp4)
+> **Video del funcionamiento (Local):** [Ver video de demostración (docs/demo_RAG.mp4)](./docs/demo_RAG.mp4)
 
 <video src="./docs/demo_RAG.mp4" controls="controls" width="100%"></video>
+
+> **Video en YouTube:** [![Ver en YouTube](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=TU_VIDEO_ID_AQUI)
+> 
+> *Link alternativo:* [https://www.youtube.com/watch?v=TU_VIDEO_ID_AQUI](https://www.youtube.com/watch?v=TU_VIDEO_ID_AQUI)
 
 ---
 

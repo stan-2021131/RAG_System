@@ -4,6 +4,14 @@ Un agente inteligente de preguntas frecuentes basado en consola, implementado pa
 
 ---
 
+## Demostración en Video
+
+> **Video del funcionamiento:** [Ver video de demostración (docs/demo_RAG.mp4)](./docs/demo_RAG.mp4)
+
+<video src="./docs/demo_RAG.mp4" controls="controls" width="100%"></video>
+
+---
+
 ## ¿Qué es y para qué sirve?
 
 Este proyecto es una prueba de concepto (Demo) de un chatbot interactivo por terminal diseñado para resolver dudas sobre el próximo evento de **Parachute S.A. Guatemala 2026**.
